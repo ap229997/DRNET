@@ -6,7 +6,7 @@ from torch.autograd import Variable
 from basic_block import *
 
 '''
-Encoder network based on DC-GAN architecture
+Encoder network based on VGG architecture
 '''
 class Encoder(nn.Module):
 	'''
@@ -91,7 +91,7 @@ class Encoder(nn.Module):
 		return out6, [skip1, skip2, skip3, skip4, skip5]
 
 '''
-Decoder based on DC-GAN architecture
+Decoder based on VGG architecture
 '''
 class Decoder(nn.Module):
 	'''
