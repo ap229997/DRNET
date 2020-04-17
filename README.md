@@ -56,14 +56,10 @@ Alternate implementation for this paper are also available. Refer to them for be
 ### Citation
 If you find this code useful, please consider citing the original work by authors:
 ```
-@incollection{NIPS2017_7028,
+@incollection{Denton2017NeurIPS,
 title = {Unsupervised Learning of Disentangled Representations from Video},
 author = {Denton, Emily L and Birodkar, vighnesh},
-booktitle = {Advances in Neural Information Processing Systems 30},
-editor = {I. Guyon and U. V. Luxburg and S. Bengio and H. Wallach and R. Fergus and S. Vishwanathan and R. Garnett},
-pages = {4414--4423},
-year = {2017},
-publisher = {Curran Associates, Inc.},
-url = {http://papers.nips.cc/paper/7028-unsupervised-learning-of-disentangled-representations-from-video.pdf}
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+year = {2017}
 }
 ```
