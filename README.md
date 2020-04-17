@@ -56,7 +56,7 @@ Alternate implementation for this paper are also available. Refer to them for be
 ### Citation
 If you find this code useful, please consider citing the original work by authors:
 ```
-@incollection{Denton2017NeurIPS,
+@inproceedings{Denton2017NeurIPS,
 title = {Unsupervised Learning of Disentangled Representations from Video},
 author = {Denton, Emily L and Birodkar, vighnesh},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
